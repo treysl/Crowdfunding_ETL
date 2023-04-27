@@ -1,7 +1,5 @@
 # Crowdfunding_ETL
 
-PROJECT 2:
-
 For the ETL mini project, I worked with a partner to practice building an ETL pipeline using Python, Pandas, and Python dictionary methods and regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and use the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
 
 ## Four CSV file - category, subcategory, contacts and campaign is exported as csv file in "RESOURCES" folder.
